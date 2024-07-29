@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arun Kishore Portfolio</title>
+    <!-- Link to Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- Link to Font Awesome for social icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <!-- Link to external CSS -->
+    <link rel="stylesheet" href="portfolio_main.css">
+    <!-- Link to favicon -->
+    <link rel="icon" href="F:/portfolio/AK-removebg-preview.png" type="image/png">
+</head>
+<body>
+    <header>
+        <section class="dots-container" id="loader">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+          </section>
+       
+        <nav class="navbar navbar-expand-lg navbar-light">
+            <div class="top-bar">
+                    <!-- Logo image -->
+                    <a class="logo" href="#">
+                        <img src="F:/portfolio/AK-removebg-preview.png" alt="Logo" class="logo">
+                    </a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav ml-auto align-items-center">
+                            <li class="nav-item">
+                                <a class="nav-link" href="#resume">Resume</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#projects">Projects</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#contact">Contact</a>
+                            </li>
+                        </ul>
+                        <label class="switch">
+                            <span class="sun"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g fill="#ffd43b"><circle r="5" cy="12" cx="12"></circle><path d="m21 13h-1a1 1 0 0 1 0-2h1a1 1 0 0 1 0 2zm-17 0h-1a1 1 0 0 1 0-2h1a1 1 0 0 1 0 2zm13.66-5.66a1 1 0 0 1 -.66-.29 1 1 0 0 1 0-1.41l.71-.71a1 1 0 1 1 1.41 1.41l-.71.71a1 1 0 0 1 -.75.29zm-12.02 12.02a1 1 0 0 1 -.71-.29 1 1 0 0 1 0-1.41l.71-.66a1 1 0 0 1 1.41 1.41l-.71.71a1 1 0 0 1 -.7.24zm6.36-14.36a1 1 0 0 1 -1-1v-1a1 1 0 0 1 2 0v1a1 1 0 0 1 -1 1zm0 17a1 1 0 0 1 -1-1v-1a1 1 0 0 1 2 0v1a1 1 0 0 1 -1 1zm-5.66-14.66a1 1 0 0 1 -.7-.29l-.71-.71a1 1 0 0 1 1.41-1.41l.71.71a1 1 0 0 1 0 1.41 1 1 0 0 1 -.71.29zm12.02 12.02a1 1 0 0 1 -.7-.29l-.66-.71a1 1 0 0 1 1.36-1.36l.71.71a1 1 0 0 1 0 1.41 1 1 0 0 1 -.71.24z"></path></g></svg></span>
+                            <span class="moon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="m223.5 32c-123.5 0-223.5 100.3-223.5 224s100 224 223.5 224c60.6 0 115.5-24.2 155.8-63.4 5-4.9 6.3-12.5 3.1-18.7s-10.1-9.7-17-8.5c-9.8 1.7-19.8 2.6-30.1 2.6-96.9 0-175.5-78.8-175.5-176 0-65.8 36-123.1 89.3-153.3 6.1-3.5 9.2-10.5 7.7-17.3s-7.3-11.9-14.3-12.5c-6.3-.5-12.6-.8-19-.8z"></path></svg></span>   
+                            <input type="checkbox" class="input">
+                            <span class="slider"></span>
+                          </label>
+                    </div>
+            </div>
+            
+            <div class="half-parallelogram-container">
+                <img src="F:\portfolio\DSC_6107__1_-removebg-preview.png" alt="Parallelogram Image">
+            </div>
+        </nav>
+    </header>
+        <section class="about_section layout_padding">
+        <div class="about_section">
+            <div class="row">
+                <div class="col-md-5">
+                    <div class="detail-box">
+                        <div class="heading_container">
+                            
+                            <h2>
+                                Arun Kishore 
+                            </h2><br><br>
+                            <p>
+                                Dedicated student with a passion for learning and achieving academic excellence. Strong analytical skills, attention to detail, and adaptability. Proven track record of high grades while balancing extracurriculars. Excellent time management, organizational, and communication abilities. Eager to apply skills in professional settings.
+                            </p><br><br><br>
+                            <a href="">
+                                Read More
+                            </a><br><br><br>
+                        </div>
+                            <section class="social-icons">
+                                <a href="https://www.instagram.com" class="instagram" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.twitter.com" class="twitter" target="_blank"><i class="fab fa-twitter"></i></a>
+                                <a href="https://www.whatsapp.com" class="whatsapp" target="_blank"><i class="fab fa-whatsapp"></i></a>
+                                <a href="https://www.linkedin.com" class="linkedin" target="_blank"><i class="fab fa-linkedin"></i></a>
+                            </section>
+                        
+                    </div>
+                </div>
+            </div>
+        </div> 
+    </section>
+    <section class="detailed_section" id="details">
+        <div class="content_container">
+            <div class="text_content">
+                <h2>Our Mission</h2>
+                <p>Our mission is to provide high-quality products that combine performance with value pricing, while establishing a successful relationship with our customers and our suppliers.</p>
+                <h2>Our Vision</h2>
+                <p>We aim to be a leader in our industry, providing innovative products and unparalleled service to our customers, fostering a culture of excellence, and making a positive impact on the communities we serve.</p>
+                <h2>Our Values</h2>
+                <ul>
+                    <li>Integrity: We act with honesty and integrity, not compromising the truth.</li>
+                    <li>Customer Commitment: We develop relationships that make a positive difference in our customers' lives.</li>
+                    <li>Quality: We provide outstanding products and unsurpassed service that deliver premium value to our customers.</li>
+                    <li>Teamwork: We work together, across boundaries, to meet the needs of our customers and to help the company win.</li>
+                </ul>
+            </div>
+            <div class="img-box">
+                <img src="detailed-image.jpg" alt="Detailed Image">
+            </div>
+        </div>
+    </section>
+    <section class="resume_section" id="resume">
+        <div class="timeline">
+            <h1 style="justify-content: center;">Academics<br></h1>
+            <div class="timeline_top"></div>
+            <div class="timeline_item">
+                <div class="timeline_content">
+                    <h3>2023 - Present</h3>
+                    <h2>Online Degree<br>BS Data Science and its Applications</h2>
+                    <p>Indian Institute of Technology Madra(IITM)<br>CGPA: 8.0<br>Chennai</p>
+                </div>
+            </div>
+            <div class="timeline_item">
+                <div class="timeline_content">
+                    <h3>2022 - Present</h3>
+                    <h2>Under Graduate Degree<br>B.Tech Information Technology</h2>
+                    <p>Madras Institute of Technology, Anna University<br>CGPA: 8.7<br>Chennai</p>
+                </div>
+            </div>
+            <div class="timeline_item">
+                <div class="timeline_content">
+                    <h3>2020 - 2022</h3>
+                    <h2>HSC</h2>
+                    <p>GRD-CPF Matriculation Higher Secondary School<br>Marks: 96.5%<br>Coimbatore</p>
+                </div>
+            </div>
+            <div class="timeline_item">
+                <div class="timeline_content">
+                    <h3>2010 - 2020</h3>
+                    <h2>SSLC</h2>
+                    <p>Srinivasa Vidhyalaya Matriculation Higher Secondary School<br>Marks: 90%<br>Udumalpet</p>
+                </div>
+            </div>
+            <div class="timeline_bottom"></div>
+        </div>
+    </section>
+    
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Arun Kishore. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        function toggleDarkMode() {
+            document.body.classList.toggle('dark-mode');
+        }
+        window.onload = function() {
+            document.querySelector('.main-content').classList.add('show');
+        };
+
+        window.onload = function() {
+            setTimeout(function() {
+                document.getElementById('loader').classList.remove('active');
+            }, 1000); // Adjust delay as needed
+        };
+
+        document.addEventListener("DOMContentLoaded", function() {
+            const toggleSwitch = document.querySelector('.switch input[type="checkbox"]');
+            const body = document.body;
+        
+            function switchTheme(e) {
+            if (e.target.checked) {
+                body.classList.add('dark-mode');
+            } else {
+                body.classList.remove('dark-mode');
+            }
+            }
+        
+            toggleSwitch.addEventListener('change', switchTheme, false);
+        });
+
+
+        
+    </script>
+    <!-- Link to Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

@@ -1,1 +1,1 @@
-This is a Portfolio website create for me and my purpose only.
+[here](https://github.com/Rak1602/Portfolio/)
